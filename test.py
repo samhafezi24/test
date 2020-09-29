@@ -1,1 +1,1 @@
-print('Janam')
+print('Janam azizam')
